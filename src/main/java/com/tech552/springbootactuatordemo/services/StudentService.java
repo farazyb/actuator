@@ -1,7 +1,7 @@
 package com.tech552.springbootactuatordemo.services;
 
-import com.tech552.springbootactuatordemo.models.Student;
-import com.tech552.springbootactuatordemo.repos.StudentRepository;
+import com.tech552.springbootactuatordemo.models.student.Student;
+import com.tech552.springbootactuatordemo.repos.student.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

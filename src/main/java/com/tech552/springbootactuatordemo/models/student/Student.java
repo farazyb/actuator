@@ -1,4 +1,4 @@
-package com.tech552.springbootactuatordemo.models;
+package com.tech552.springbootactuatordemo.models.student;
 
 import javax.persistence.*;
 
